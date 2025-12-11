@@ -1,9 +1,39 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+
+
+## Description
+
+This is my final project in working towards the IBM DevOps Software Engineering Professional Certificate.
+
+I will try to implement all I have learned to solve a scenario.
+
+Scenario
+```text
+You have been asked by the customer account manager at your company to
+develop an account microservice to keep track of the customers
+on your e-commerce website. Since it is a microservice, it is expected
+to have a well-formed REST API that other microservices can call.
+This service initially needs to create, read, update, delete,
+and list customers.
+
+You have also been told that someone else has started on this task.
+They have already developed the database model and a Python
+Flask-based REST API with an endpoint to create a customer account.
+
+Tasks that need to be completed:
+- Create and execute sprint plans
+- Develop a RESTful Service using Test Driven Development (TDD)
+- Add Continuous Integration (CI) and Security to the Repository
+- Deploy the application to Kubernetes
+- Build an automated CD DevOps Pipeline
+```
+
+
 
 ## Usage
 
